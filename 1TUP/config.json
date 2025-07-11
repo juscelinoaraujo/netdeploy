@@ -8,14 +8,14 @@
     "text": "Juscelino Araújo"
   },
   "text": {
-    "more": "1TUP protein network..",
-    "intro": "1TUP protein network.",
+    "more": "Residue interaction network for 1TUP protein.",
+    "intro": "Residue interaction network for 1TUP protein.",
     "title": "1TUP Protein"
   },
   "legend": {
-    "edgeLabel": "Ligação não-covalente",
+    "edgeLabel": "Non-covalent interaction",
     "colorLabel": "Community",
-    "nodeLabel": "Resíduo de aminoácido individual"
+    "nodeLabel": "Individual amino acid residue"
   },
   "features": {
     "search": true,
